@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.4.9)  9 OCT 2021 22:55
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.4.9)  9 OCT 2021 23:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -114,16 +114,23 @@ LaTeX Font Info:    ... okay on input line 3.
 
 LaTeX Warning: No \author given.
 
+
+LaTeX Font Warning: Command \large invalid in math mode on input line 26.
+
+
+Package amsmath Warning: Cannot use `split' here;
+(amsmath)                trying to recover with `aligned' on input line 30.
+
 [1
 
 ] (./learn_equation.aux) ) 
 Here is how much of TeX's memory you used:
  1113 strings out of 476919
  16690 string characters out of 5825425
- 311550 words of memory out of 5000000
+ 312550 words of memory out of 5000000
  21154 multiletter control sequences out of 15000+600000
  407350 words of font info for 48 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 67i,6n,74p,222b,195s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 67i,8n,74p,222b,195s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on learn_equation.pdf (1 page).
